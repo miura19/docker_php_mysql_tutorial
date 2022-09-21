@@ -6,6 +6,4 @@
             checkbox.parentNode.submit();
         });
     });
-
-    //test
 }
